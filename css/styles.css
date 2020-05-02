@@ -1,0 +1,36 @@
+html, body {
+  font-family: monospace;
+  background-color: #EAF6F6;
+}
+
+body {
+  margin: 48px auto;
+}
+hr {
+  background-color: Powderblue;
+  border-color: grey;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+
+}
+img{height: 300px}
+
+h1 {
+  font-style: normal;
+  font-family: cursive;
+
+  color: teal;
+}
+
+h2{
+  font-style: italic;
+  font-stretch: expanded;
+  color: grey;
+}
+
+h3{
+  color: orange;
+  font-family: serif;
+}
